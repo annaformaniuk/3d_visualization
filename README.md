@@ -20,9 +20,9 @@ Download the 3d_visualization folder and load the content corresponding .py file
 
 - To visualize a Digital Elevation Model as a 2.5D map: run the *flying_carpet.py*
 
-![Input Interface](.data/results/flying_carpet.PNG)
+![Input Interface](./data/results/flying_carpet.PNG)
 
 - To visualize a GPS track as a space-time cube: run the *spacetime_cube.py*
 
-![Input Interface](.data/results/spacetime_cube.PNG)
+![Input Interface](./data/results/spacetime_cube.PNG)
 
