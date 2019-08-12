@@ -1,6 +1,6 @@
 # 3d_visualization
 
-Implementation 2.5D and 3D visualization of data with matplotlib.
+Implementation of 2.5D and 3D visualization of data with Matplotlib.
 
 ## Requirements
 
@@ -14,7 +14,7 @@ A default installation of QGIS3 is required, with following libraries included:
 
 ## Installation and Usage
 
-Download the 3d_visualization folder and load the content corresponding .py files in your QGIS environment, specifying paths to your raster and vector data.
+Download the 3d_visualization folder and load the content corresponding *.py* files in your QGIS environment, specifying paths to your raster and vector data.
 
 ## Available Features
 
